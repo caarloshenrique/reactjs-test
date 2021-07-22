@@ -11,7 +11,8 @@
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-interfaces">Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-pré-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#zap-executando-a-aplicação">Execução</a>
+  <a href="#zap-executando-a-aplicação">Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
 ## :computer: Sobre o projeto
@@ -87,6 +88,11 @@ $ yarn start
 # executar testes unitários do projeto
 $ yarn test
 ```
+
+
+## :page_facing_up: Licença 
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
 
 ---
 <p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com :blue_heart: por <strong> Carlos Henrique da Costa Silva </strong> </p>
